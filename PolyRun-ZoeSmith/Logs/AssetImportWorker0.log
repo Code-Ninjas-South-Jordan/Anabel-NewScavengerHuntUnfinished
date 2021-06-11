@@ -1,0 +1,279 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/codeninjas/Documents/Anabel-NewScavengerHuntUnfinished/PolyRun-ZoeSmith
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+53818
+Successfully changed project path to: /Users/codeninjas/Documents/Anabel-NewScavengerHuntUnfinished/PolyRun-ZoeSmith
+/Users/codeninjas/Documents/Anabel-NewScavengerHuntUnfinished/PolyRun-ZoeSmith
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 77.93 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path /Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/codeninjas/Documents/Anabel-NewScavengerHuntUnfinished/PolyRun-ZoeSmith/Assets
+GfxDevice: creating device client; threaded=0
+2021-06-08 16:27:40.842 Unity[10644:396106] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-06-08 16:27:40.842 Unity[10644:396106] Metal devices available: 1
+2021-06-08 16:27:40.842 Unity[10644:396106] 0: Intel(R) Iris(TM) Plus Graphics 640 (low power)
+2021-06-08 16:27:40.843 Unity[10644:396106] Using device Intel(R) Iris(TM) Plus Graphics 640 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 640
+Initialize mono
+Mono path[0] = '/Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56644
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000469 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 44.20 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.290 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000668 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 68.44 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.885 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/codeninjas/Documents/2020.3.3f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1841 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 144.6 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2283.
+Total: 2.801706 ms (FindLiveObjects: 0.322387 ms CreateObjectMapping: 0.097198 ms MarkObjects: 2.199299 ms  DeleteObjects: 0.181581 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000954 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.602 seconds
+Platform modules already initialized, skipping
+Shader 'MK/Glow/Luminance/UI/Lit/Bumped': fallback shader 'MK/Glow/Luminance/UI/Lit/Transparent' not found
+Shader 'Hidden/MK/Glow/MKGlowSM40': fallback shader 'Hidden/MK/Glow/MKGlowSM35' not found
+Shader 'MK/Glow/Luminance/UI/Lit/Refraction Detail': fallback shader 'MK/Glow/Luminance/UI/Lit/Detail' not found
+Shader 'MK/Glow/Luminance/UI/Unlit/Transparent': fallback shader 'MK/Glow/Luminance/UI/Default' not found
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Unlit/Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Unlit/Transparent' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'Hidden/MK/Glow/MKGlowSM30': fallback shader 'Hidden/MK/Glow/MKGlowSM25' not found
+Shader 'MK/Glow/Luminance/UI/Unlit/Text': fallback shader 'MK/Glow/Luminance/UI/Default Font' not found
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Unlit/Text' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Unlit/Text' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Shader 'MK/Glow/Luminance/UI/Default Font': fallback shader 'MK/Glow/Luminance/UI/Default' not found
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Default Font' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+WARNING: Shader Unsupported: 'MK/Glow/Luminance/UI/Default Font' - All subshaders removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+WARNING: Shader If subshaders removal was intentional, you may have forgotten turning Fallback off?
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1885 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 162.5 MB.
+System memory in use after: 151.5 MB.
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 2296.
+Total: 12.107272 ms (FindLiveObjects: 0.326403 ms CreateObjectMapping: 0.107730 ms MarkObjects: 2.810096 ms  DeleteObjects: 8.861564 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.004266 seconds
+  Import took 0.008039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008720 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2e0e235c0f4af3754229b664788db90') in 0.000847 seconds
+  Import took 0.004257 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.861101 seconds.
+  path: Assets/Scenes/PolyRun.unity
+  artifactKey: Guid(50c973c99b768c340a7d6533f6aed0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/PolyRun.unity using Guid(50c973c99b768c340a7d6533f6aed0af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5661097e7e50692d2be0e55362a812f1') in 0.019288 seconds
+  Import took 0.025138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.789691 seconds.
+  path: Assets/Font/DIMIS___.TTF
+  artifactKey: Guid(d2944d67a6f06af4fbf3e0f2ff75538e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/DIMIS___.TTF using Guid(d2944d67a6f06af4fbf3e0f2ff75538e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e5e25ed7c77c628b319c1e06de55b7') in 0.284287 seconds
+  Import took 0.288451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Font/DIMITRI_.TTF
+  artifactKey: Guid(4df4ad4dad4601a408d562eb72a7d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Font/DIMITRI_.TTF using Guid(4df4ad4dad4601a408d562eb72a7d66e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7e52489691dad3375e9597054a131aa') in 0.013299 seconds
+  Import took 0.021740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132430 seconds.
+  path: Assets/Material/Enemy.mat
+  artifactKey: Guid(fd9268f7f94256f48b4c12008a6f9a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Enemy.mat using Guid(fd9268f7f94256f48b4c12008a6f9a7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e00e0547d1560e32ef2fe177c8a7eee') in 0.101465 seconds
+  Import took 0.106639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Material/Platform.mat
+  artifactKey: Guid(4c6ee41111e4db34bb5b0b7d7010aeec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Platform.mat using Guid(4c6ee41111e4db34bb5b0b7d7010aeec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd98fcb265bd740c9039370e50946dd36') in 0.019833 seconds
+  Import took 0.024754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Material/Star.mat
+  artifactKey: Guid(145a476c821fad546bf38e71bf88aec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Star.mat using Guid(145a476c821fad546bf38e71bf88aec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0be962b9444b4e69b41914b64e57dd4') in 0.023336 seconds
+  Import took 0.028294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000746 seconds.
+  path: Assets/Material/Ground.mat
+  artifactKey: Guid(f397e205549e2c0428f343c669a52236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Ground.mat using Guid(f397e205549e2c0428f343c669a52236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e0fcf0755e2cb00094d6f9995b9d061') in 0.021212 seconds
+  Import took 0.027616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Material/Player.mat
+  artifactKey: Guid(921af07bfe8a92b4a954baa8305f56f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/Player.mat using Guid(921af07bfe8a92b4a954baa8305f56f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ca8943f8dedfe2012761c43b1785e20') in 0.025550 seconds
+  Import took 0.030000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.572556 seconds.
+  path: Assets/Physics/Player.physicsMaterial2D
+  artifactKey: Guid(1f185380e64093a4faffb3303432b227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics/Player.physicsMaterial2D using Guid(1f185380e64093a4faffb3303432b227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '053d0c17b2bb9ddcdd0a848cc20e1110') in 0.031466 seconds
+  Import took 0.034879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.021016 seconds.
+  path: Assets/Prefabs/Coin.prefab
+  artifactKey: Guid(969b1bee2b8adf948a4ae5e43d1cbde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Coin.prefab using Guid(969b1bee2b8adf948a4ae5e43d1cbde3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d5cabd6abcdec429d7e9270351ddde5') in 0.052858 seconds
+  Import took 0.056888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Prefabs/Square.prefab
+  artifactKey: Guid(85a7b34030ff78240ad4046b0bb7ebb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Square.prefab using Guid(85a7b34030ff78240ad4046b0bb7ebb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '230a8f71bad0a27b2fd5220dcb38d439') in 0.022855 seconds
+  Import took 0.029480 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Prefabs/Enemy.prefab
+  artifactKey: Guid(c35ef15c1d5cf554ca44aa3c5f446bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Enemy.prefab using Guid(c35ef15c1d5cf554ca44aa3c5f446bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bcfcfa05f45fd485fe56ee4f0423d37') in 0.036022 seconds
+  Import took 0.040001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(589710282b9db9746b32187b0cc2dd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(589710282b9db9746b32187b0cc2dd68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e6dc55c61f97eb2d1bdf6e5d347804a') in 0.027557 seconds
+  Import took 0.031025 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Prefabs/MainGameCanvas.prefab
+  artifactKey: Guid(32099380f5be4314eaafd9392860df90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/MainGameCanvas.prefab using Guid(32099380f5be4314eaafd9392860df90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b392422ec6efb41a85a6044c8eabca0') in 0.038245 seconds
+  Import took 0.041542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Prefabs/Platform.prefab
+  artifactKey: Guid(90ddefa79043fcf47afd016712445062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platform.prefab using Guid(90ddefa79043fcf47afd016712445062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91c9a8dd642a14cf58acaed342bd83d2') in 0.021368 seconds
+  Import took 0.024981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Prefabs/GameController.prefab
+  artifactKey: Guid(38646eb3fbe07b04daef55916ea14e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GameController.prefab using Guid(38646eb3fbe07b04daef55916ea14e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22b47f9e415c7304e508c67508634040') in 0.007565 seconds
+  Import took 0.013578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 596.477883 seconds.
+  path: Assets/PolyRun-ZoeSmith.scenetemplate
+  artifactKey: Guid(f49b95f5abc8648e19b18561509cea5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolyRun-ZoeSmith.scenetemplate using Guid(f49b95f5abc8648e19b18561509cea5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ed079ddefb3dd93c830fd2061258c3') in 0.034920 seconds
+  Import took 0.038704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015388 seconds.
+  path: Assets/PolyRun-ZoeSmith.scenetemplate
+  artifactKey: Guid(f49b95f5abc8648e19b18561509cea5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolyRun-ZoeSmith.scenetemplate using Guid(f49b95f5abc8648e19b18561509cea5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ed079ddefb3dd93c830fd2061258c3') in 0.005001 seconds
+  Import took 0.010616 seconds .
+
