@@ -33,6 +33,7 @@ public class Jump : MonoBehaviour
             // Apply an instantaneous upwards force
             rigidBody.AddForce(Vector2.up * jumpStrength, ForceMode2D.Impulse);
             //canJump = !checkGround;
+            print("Jump Check Passed");
         }
 
     }
