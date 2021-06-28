@@ -1,7 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
 public class FallingLeaves : MonoBehaviour
 {
     public GameObject LeafParticle;
@@ -12,7 +11,6 @@ public class FallingLeaves : MonoBehaviour
         LeafFall();
 
     }
-
     void LeafFall()
     {
         LeafParticle.GetComponent<ParticleSystem>().Play();
