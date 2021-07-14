@@ -139,3 +139,35 @@ System memory in use after: 117.5 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1755.
 Total: 2.339805 ms (FindLiveObjects: 0.216350 ms CreateObjectMapping: 0.057439 ms MarkObjects: 2.034567 ms  DeleteObjects: 0.030213 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 259.017831 seconds.
+  path: Assets/Prefabs/Avatar.prefab
+  artifactKey: Guid(808b89f9746b7b7498a3a88b37ef5221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Avatar.prefab using Guid(808b89f9746b7b7498a3a88b37ef5221) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977caa5f3ded3fec3750218ad1cd09e7') in 0.502442 seconds
+  Import took 0.507686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.745350 seconds.
+  path: Assets/Scripts/Score.cs
+  artifactKey: Guid(d37e7986f3534ea4faf8ce8efd741ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Score.cs using Guid(d37e7986f3534ea4faf8ce8efd741ab1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bb749a134dbc67e7cb51dd47e18ed1') in 0.173785 seconds
+  Import took 0.176319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.053990 seconds.
+  path: Assets/Scripts/CollectibleAttribute.cs
+  artifactKey: Guid(9d694d80e66beae498268fd59049af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CollectibleAttribute.cs using Guid(9d694d80e66beae498268fd59049af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db907a60e62af1458fe746e97a644860') in 0.001218 seconds
+  Import took 0.003805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001220 seconds.
+  path: Assets/Scripts/CollectibleAttribute.cs
+  artifactKey: Guid(9d694d80e66beae498268fd59049af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/CollectibleAttribute.cs using Guid(9d694d80e66beae498268fd59049af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db907a60e62af1458fe746e97a644860') in 0.002631 seconds
+  Import took 0.008251 seconds .
+
