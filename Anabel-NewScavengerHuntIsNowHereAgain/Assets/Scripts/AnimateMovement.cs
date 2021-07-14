@@ -15,7 +15,6 @@ public class AnimateMovement : MonoBehaviour
     public string jumpingParameter = "JumpUp";
     public string fallingParameter = "Falling";
     public string jumpButtonPressed = "JumpStart";
-
     [Header("Jump setup")]
     // the key used to activate the push
     public KeyCode key = KeyCode.Space;
@@ -126,4 +125,3 @@ public class AnimateMovement : MonoBehaviour
     }
 
 }
-

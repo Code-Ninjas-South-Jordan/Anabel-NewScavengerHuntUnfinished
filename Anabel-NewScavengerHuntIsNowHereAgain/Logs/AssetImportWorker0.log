@@ -171,3 +171,43 @@ Received Import Request.
 Start importing Assets/Scripts/CollectibleAttribute.cs using Guid(9d694d80e66beae498268fd59049af07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db907a60e62af1458fe746e97a644860') in 0.002631 seconds
   Import took 0.008251 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 39.034844 seconds.
+  path: Assets/Artwork/gameIcons.png
+  artifactKey: Guid(683542f29faa5464792cbe856190f90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/gameIcons.png using Guid(683542f29faa5464792cbe856190f90a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93a781b07cdf3d7076acb9d2b292ba5e') in 0.269370 seconds
+  Import took 0.272130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Artwork/ScavengerHuntBackground.png
+  artifactKey: Guid(539aa10dfc3e042749e2ef6facea9c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/ScavengerHuntBackground.png using Guid(539aa10dfc3e042749e2ef6facea9c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6732dd4831b65b086c1830f2b5e9bd55') in 0.042085 seconds
+  Import took 0.044052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Artwork/spritemap1.png
+  artifactKey: Guid(2c8d0eb25f52bf446923412fe970cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Artwork/spritemap1.png using Guid(2c8d0eb25f52bf446923412fe970cecc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64678e411c69c56da3a439707002f805') in 0.377402 seconds
+  Import took 0.379992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.893574 seconds.
+  path: Assets/Scripts/AnimateMovement.cs
+  artifactKey: Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AnimateMovement.cs using Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b29621a8c161e1ce023c60526085d0') in 0.001148 seconds
+  Import took 0.003980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002325 seconds.
+  path: Assets/Scripts/AnimateMovement.cs
+  artifactKey: Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AnimateMovement.cs using Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b29621a8c161e1ce023c60526085d0') in 0.001446 seconds
+  Import took 0.005023 seconds .
+
