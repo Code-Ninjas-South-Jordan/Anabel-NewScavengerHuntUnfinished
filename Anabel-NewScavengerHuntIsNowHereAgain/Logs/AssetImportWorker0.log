@@ -211,3 +211,34 @@ Received Import Request.
 Start importing Assets/Scripts/AnimateMovement.cs using Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b29621a8c161e1ce023c60526085d0') in 0.001446 seconds
   Import took 0.005023 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000424 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.014 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1298 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 133.2 MB.
+System memory in use after: 133.3 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 2.219221 ms (FindLiveObjects: 0.248372 ms CreateObjectMapping: 0.077558 ms MarkObjects: 1.855360 ms  DeleteObjects: 0.036116 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.571150 seconds.
+  path: Assets/Scripts/AnimateMovement.cs
+  artifactKey: Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/AnimateMovement.cs using Guid(6a3d3b23043ad9949a7224d4e64ca0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6d703774c3ed5b6fa1b07059f670e13') in 0.004335 seconds
+  Import took 0.007352 seconds .
+
